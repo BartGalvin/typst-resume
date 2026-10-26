@@ -1,0 +1,142 @@
+# Main content file. List order is display order. Use spaces, not tabs.
+# Started from the June 2021 LaTeX resume; later edits are maintained here.
+# Education details use Typst markup, including _italics_.
+# Other fields are plain text and need no Typst escaping.
+
+profile:
+  name: Bartholomew Galvin
+  email: ""
+  phone: ""
+  website: ""
+
+education:
+  - institution: Georgia Institute of Technology
+    location: Atlanta, Georgia
+    start: Aug 2020
+    end: Expected May 2027
+    details:
+      - "MS, Computer Science"
+      - "Specialization in Computing Systems"
+
+  - institution: Harvard Law School
+    location: Cambridge, Massachusetts
+    start: Sep 2010
+    end: Jun 2013
+    details:
+      - "JD, _cum laude_"
+
+  - institution: Brown University
+    location: Providence, Rhode Island
+    start: Sep 2005
+    end: May 2009
+    details:
+      - "BA, Philosophy"
+
+experience:
+
+  - organization: Blockchain Software Startup
+    location: Providence, Rhode Island
+    position: Co-Founder and Lead Developer
+    start: Aug 2021
+    end: Apr 2024
+    highlights:
+      - >-
+        Co-founded and led a successful software startup alongside a creative director and marketing lead. 
+      - >-
+        Developed and sold cutting-edge interactive software for the Ethereum Virtual Machine that generated over $5 million in profit and over $100 million in cumulative trading volume.
+      - >-
+        Designed, implemented, and deployed interactive software combining applied cryptography and distributed systems infrastructure.
+
+  - organization: Bulkley Richardson and Gelinas, LLP
+    location: Springfield, Massachusetts
+    position: Associate
+    start: Jan 2021
+    end: Oct 2021
+    highlights:
+      - >-
+        Provided wide-ranging legal advice to manufacturers, financial
+        institutions, universities, and startups at all stages of the business
+        lifecycle.
+      - >-
+        Advised startups and emerging businesses on structuring, fundraising,
+        general corporate matters, litigation, and regulatory compliance.
+      - >-
+        Spearheaded the formation of the firm's blockchain and cryptocurrency
+        practice group.
+
+  - organization: Independent Study of Computer Science
+    location: Milan, Italy
+    position: Student
+    start: May 2019
+    end: Aug 2020
+    highlights:
+      - >-
+        Completed prerequisites for an MS in Computer Science using
+        online courses, lectures, and standard textbooks.
+
+  - organization: White & Case LLP
+    location: Milan, Italy
+    position: Associate
+    start: Jul 2017
+    end: May 2019
+    highlights:
+      - >-
+        Advised issuers and underwriters on IPOs, high yield bonds, block trades
+        and private placements. Drafted offering memoranda, purchase agreements
+        and ancillary documents.
+      - >-
+        Acted as lead U.S. associate in €1.3 billion high yield bond offering
+        that was recognized as the Euro Bond and Europe High-Yield Bond of the
+        Year in IFR Awards 2018.
+      - >-
+        Advised buyers and sellers in international M&A deals. Drafted operating
+        agreements, purchase agreements and due diligence reports. Managed
+        multi-jurisdiction legal and diligence reviews.
+
+  - organization: U.S. District Court, Southern District of Iowa
+    location: Des Moines, Iowa
+    position: Law Clerk
+    start: Aug 2015
+    end: Jun 2017
+    highlights:
+      - >-
+        Drafted court orders and bench memoranda on the full scope of matters
+        before the court, including commercial agreements, employment, federal
+        securities laws, insurance, intellectual property, real estate,
+        constitutional law, and civil and criminal procedure.
+      - >-
+        Sat with the Eighth Circuit Court of Appeals in February 2016 and
+        March 2017. Drafted appellate opinions.
+
+  - organization: Ropes & Gray LLP
+    location: Boston, Massachusetts
+    position: Associate
+    start: Oct 2013
+    end: Jun 2015
+    highlights:
+      - >-
+        Advised registered investment companies and independent directors on
+        federal securities laws, with a focus on the Investment Company Act and
+        the Investment Advisers Act. Drafted Form N-1A registration statements
+        and post-effective amendments.
+      - >-
+        Represented fund sponsors and institutional investors on fund formation
+        and related matters. Drafted and negotiated limited partnership
+        agreements, side letters and subscription agreements.
+      - >-
+        Advised banking entities on the Bank Holding Company Act and Dodd-Frank.
+
+
+activities:
+  - organization: Brown Broadcasting Service, Inc. (95.5 WBRU FM, Providence, RI)
+    position: Director
+
+skills:
+  - label: Bar Admissions
+    items: [ Massachusetts (2013) ]
+  - label: Programming Languages
+    items: [TypeScript, JavaScript, Python, C, Solidity, bash]
+  - label: Frameworks
+    items: [React, Svelte, Tailwind]
+  - label: Spoken Languages
+    items: [English, Italian]
