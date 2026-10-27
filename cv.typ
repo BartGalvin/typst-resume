@@ -1,4 +1,4 @@
-#let data = yaml("resume.yaml")
+#let data = yaml("cv.yaml")
 #let contact-file = sys.inputs.at("contacts", default: none)
 #if contact-file != none {
   data.profile += yaml(contact-file)
@@ -6,7 +6,7 @@
 #let design = yaml("design.yaml")
 #let leading = design.line_spacing_em * 1em
 
-#set document(title: data.profile.name + " - Resume", author: data.profile.name)
+#set document(title: data.profile.name + " - CV", author: data.profile.name)
 #set page(
   design.paper,
   margin: (x: design.margin_x_in * 1in, y: design.margin_y_in * 1in),

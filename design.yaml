@@ -1,4 +1,4 @@
-# Layout settings. Measurements are numbers in the units named by each key.
+# Layout settings 
 paper: us-letter
 font: Libertinus Serif
 body_size_pt: 11
@@ -7,10 +7,10 @@ section_size_pt: 11
 margin_x_in: 0.55
 margin_y_in: 0.5
 
-# Base line gap, shared by paragraphs, header rows, and compact rows.
+# Base line gap, shared by paragraphs, header rows, and compact rows
 line_spacing_em: 0.35
 section_gap_pt: 8
 entry_gap_pt: 3.5
 
-# Extra space between bullet items, added to the base line gap.
+# Extra space between bullet items, added to the base line gap
 bullet_gap_pt: 1

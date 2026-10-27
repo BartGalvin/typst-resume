@@ -1,7 +1,4 @@
-# Main content file. List order is display order. Use spaces, not tabs.
-# Started from the June 2021 LaTeX resume; later edits are maintained here.
-# Education details use Typst markup, including _italics_.
-# Other fields are plain text and need no Typst escaping.
+# Main content file. List order is display order. Use spaces, not tabs
 
 profile:
   name: Bartholomew Galvin
